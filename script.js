@@ -14,4 +14,4 @@ while (i < items.length) {
     itemsList.append(newLi);
 
     i++;
-}
+};
